@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vazelinWindowsForms", "vazelinWindowsForms.csproj", "{F038368D-196B-4661-9F91-BF1535504C17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F038368D-196B-4661-9F91-BF1535504C17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F038368D-196B-4661-9F91-BF1535504C17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F038368D-196B-4661-9F91-BF1535504C17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F038368D-196B-4661-9F91-BF1535504C17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23B04A28-A24C-42A2-AB0B-010BB0F5AD0E}
+	EndGlobalSection
+EndGlobal
